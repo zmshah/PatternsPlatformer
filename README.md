@@ -5,5 +5,5 @@ CIS 514 (Advanced object oriented programming with design patterns) Final projec
 Proxy pattern is used to decouple position algorithms from implementation. Prototype pattern is used to clone and spawn enemy objects. Strategy pattern is used to make the enemy objects move.
 Iterator pattern is used to create arrays to store enemy objects. Singleton pattern to keep track of scoreboard from destroying enemies and collecting coins.
 
-<h1>Demo<h1/>
+<h1>Demo
 ![alt text](Demo.gif)
